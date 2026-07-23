@@ -35,8 +35,8 @@ Hi! I'm **Micka**, a graduating **Computer Science** student at the **Polytechni
 
 ### Legacy Systems Intern
 
-Land Bank of the Philippines – Head Office 
-August – September 2025
+#### Land Bank of the Philippines – Head Office 
+##### August – September 2025
 
 - Migrated legacy Easytrieve programs to COBOL as part of Land Bank's technology modernization initiative.
 - Gained hands-on experience with legacy systems and mainframe development.
