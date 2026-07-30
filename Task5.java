@@ -12,8 +12,9 @@ public class Task5 {
 
             if (i == 0)
                 intLargestNum = intInput[i];
-            else if (intLargestNum < intInput[i])
-                intLargestNum = intInput[i];
+            else 
+                if (intLargestNum < intInput[i])
+                    intLargestNum = intInput[i];
         }
 
         if (intInput[0] == intInput[1] && intInput[1] == intInput[2])
