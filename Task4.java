@@ -15,7 +15,7 @@ public class Task4 {
 
         bolResult = strInput.equals(strReversed);
 
-        if (bolResult == true)
+        if (bolResult)
             System.out.println("The input string is a palindrome.");
         else
             System.out.println("The input string is not a palindrome.");
