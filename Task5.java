@@ -20,6 +20,6 @@ public class Task5 {
         if (intInput[0] == intInput[1] && intInput[1] == intInput[2])
             System.out.println("All numbers are equal.");
         else 
-            System.out.println("Largest Number = " + intLargestNum + ".");
+            System.out.println("The largest number is " + intLargestNum + ".");
     }
 }
