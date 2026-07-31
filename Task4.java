@@ -7,7 +7,10 @@ public class Task4 {
         boolean bolResult;
         
         System.out.print("Enter a word: ");
-        strInput = sc.next();
+        strInput = sc.nextLine();
+        
+        // Removes all the spaces in the string to compare multiple words. 
+        strInput = strInput.replaceAll("\\s+", "");
 
         StringBuilder sbChecker = new StringBuilder(strInput);
         sbChecker = sbChecker.reverse();

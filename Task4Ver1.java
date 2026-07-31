@@ -7,8 +7,7 @@ public class Task4Ver1 {
         boolean bolResult;
         
         System.out.print("Enter a word: ");
-        strInput = sc.nextLine();
-        strInput = strInput.replaceAll("\\s+", "");
+        strInput = sc.next();
 
         StringBuilder sbChecker = new StringBuilder(strInput);
         sbChecker = sbChecker.reverse();
