@@ -7,7 +7,7 @@ class Student {
     }
 
     public void printFullName() {
-        System.out.println(this.firstName + " " + this.lastName);
+        System.out.println(firstName + " " + lastName);
     }
 }
 
